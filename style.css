@@ -38,13 +38,14 @@ body {
   font-size: 38px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.3);
 }
 
 .banner p {
   font-size: 32px;
   font-weight: 500;
   font-family: 'Lora', serif;
-  text-shadow: 2px, 2px, 3px, rgba(0,0,0,0.3)
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.3);
 }
 
 h1 h2 {
