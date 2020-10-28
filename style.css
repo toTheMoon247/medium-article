@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lora&display=swap');
+
+.btn-blue {
+  background-color: #3b76ba;
+  color: white;
+  padding: 8px 24px;
+  border-radius: 4px;
+  box-shadow: 0px 2px 10px grey;
+}
+
+.btn-blue:hover {
+  background-color: #144567;
+  box-shadow: 0px 0px 2px 4px #b4b5b3 ;
+}
+
+
+body {
+  color: #494949;
+  font-size: 18px;
+  line-height: 1.6;
+  font-weight: 100;
+  font-family: 'Lora', serif;
+  font-style: normal;
+  margin: 0;
+}
+
+.banner {
+  background-image: url("https://source.unsplash.com/random/1000x500");
+  background-size: cover;
+  color: white;
+  padding: 120px 0;
+}
+
+.banner h1 {
+  font-size: 38px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+.banner h2 {
+  font-size: 32px;
+  font-weight: 500;
+  font-family: 'Lora', serif;
+}
+
+h1 h2 {
+  margin: 50px auto;
+  width: 700px;
+}
+
+.container {
+  margin: 50px auto;
+  width: 700px;
+}
+
+a {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 32px
+  /*text-decoration: none;*/
+}
+
+/*My questions:
+1. How to access the text inside the banner? (I created .banner h2)
+2. How to create space between the btn and the paragraph above?*/
+
+
+
+
